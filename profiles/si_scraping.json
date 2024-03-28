@@ -1,0 +1,91 @@
+{	
+	"professional": "Browser Automation | Web Scraping | Sports Auto Betting(Surebet, Valuebet)",
+	"work_experience": [
+		{
+			"role": "Python Engineer",
+			"company": "Tibco Software Singapore Pte Ltd",
+			"location": "North Tower, #34-02A, #34-03 One Raffles Quay, Singapore 048583",
+			"country" : "Singapore",
+			"start": "2018.3",
+			"end": "2020.6",
+			"description": [
+				"- Developed Python-based web scraping solutions utilizing BeautifulSoup, Selenium, and Pandas to extract vehicle specifications, pricing data",
+				"- Optimized scrapers for high-performance data extraction by implementing asynchronous web scraping techniques and parallel processing."
+			]
+		},
+		{
+			"role": "Bot Developer",
+			"company": "DevCom",
+			"location": "Florida, USA",
+			"country" : "United States",
+			"start": "2020.9",
+			"end": "2023.6",
+			"description": [
+				"- Provided expert consulting services in Python web scraping to help gather and analyze competitive intelligence data for market research and business strategy.",
+				"- Developed customized web scraping solutions using Python, Beautiful Soup, and Requests to extract relevant industry data from various online sources."
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Bard College Berlin",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2012",
+			"end": "2015",
+			"description": "Bard College Berlin's computer science program offers a broad range of courses covering programming languages, algorithms, computer networks, software engineering, and more. The curriculum aims to equip students with both theoretical knowledge and practical skills to excel in the field of computer science."
+		},
+		{
+			"university": "Savannah College of Art and Design (SCAD) Hong Kong",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2018",
+			"description": "Savannah College's computer science program offers a broad range of courses covering programming languages, algorithms, computer networks, software engineering, and more. The curriculum aims to equip students with both theoretical knowledge and practical skills to excel in the field of computer science."
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Web Scraping",
+		"Python",
+		"Selenium",
+		"Telegram",
+		"Bot Development",
+		"Chatbot",
+		"Scrapy",
+		"Data Scraping",
+		"WhatsApp",
+		"RESTful API",
+		"HTML",
+		"CSS",
+		"Web Development",
+		"Data Extraction",
+		"Google Sheets"
+	],
+	"services": [
+		"Web Development",
+        "Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"1. Proficiency in Python: I have a strong understanding and command over the Python programming language. This includes knowledge of Python's syntax, data structures, control flow, functions, and libraries.",
+		"2. Web Scraping Frameworks: Familiarity with popular web scraping frameworks like BeautifulSoup, Scrapy, or Selenium is mine. These frameworks provide tools and methods to extract data from websites efficiently."
+	],
+	"hour_rate": "25",
+	"photo_others": {
+		"birthday": ["1995-12-13", "1996-12-13", "1997-12-13", "1998-12-13", "1999-12-13", "1994-12-13"],
+		"country": "Singapore",
+		"city": ["Brizay Park", "Novena, North East", "Bedok New Town", "West Coast Village", "Delta Road", "Pandan Valley", "Lam San Village", "Queen Astrid Park", "Rochester Park", "Tengah, South West", "Camden Park,", "Ama Keng"],
+		"street": ["30 Victoria St #B1-03", "Suntec City Mall 3 Temasek Boulevard #01-157", "2 SUNGEI KADUT LOOP", "12 Kaki Bukit Crescent 01-00", "50 Orchard Road", "12 Kaki Bukit Crescent 01-00", "37 lavender street", "118 Onan Rd", "7 Maxwell Road #05-07 Amoy Street Food Centre", "809 French Road #01-156 Kitchener Complex", "Defu Industrial Park A, 8 Defu Lane 1", "26 Benoi Sector Jurong", "16 Kerbau Road", "17 Hillview Avenue #01-1306", "5 Coleman Street #02-03 Peninsula Excelsior"],
+		"zipcode": ["050335", "188778", "389391", "208136", "179094", "128383", "187996", "038983", "416243", "729449"],
+		"phone": ["62231076", "62938846", "67426723", "63963883", "63381573", "68721178", "63375438", "68372025", "62692442", "68417110"],
+		"avatar":["1.jpg", "2.png", "3.png"]
+  },
+	"agency": "MAXIM",
+  "first_name": [
+		"James"
+	],
+	"last_name": [
+		"Paul"
+	]
+}
